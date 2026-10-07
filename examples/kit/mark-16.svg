@@ -1,0 +1,5 @@
+<!-- 16px cut — 16-unit grid (1 unit = 1px @16). Span 1–15px, channel 2px, bar 4px, leg 4px. Use at ≤24px -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t">
+  <title id="t">LogoModernism mark 16px</title>
+  <path fill="currentColor" d="M240 16 L240 80 L112 80 L112 144 L16 144 L16 16 Z M16 176 L144 176 L144 112 L240 112 L240 240 L16 240 Z"/>
+</svg>
