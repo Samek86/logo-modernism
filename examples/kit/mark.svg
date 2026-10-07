@@ -1,0 +1,5 @@
+<!-- LogoModernism master — two identical L-slabs, 180° about centre, split by a uniform Z-channel. 8-unit grid: span 32–224, channel 16, bar 56, leg 64 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t">
+  <title id="t">LogoModernism mark</title>
+  <path fill="currentColor" d="M224 32 L224 88 L120 88 L120 152 L32 152 L32 32 Z M32 168 L136 168 L136 104 L224 104 L224 224 L32 224 Z"/>
+</svg>

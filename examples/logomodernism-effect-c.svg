@@ -1,0 +1,5 @@
+<!-- concept C: 180° interlocking notched slabs — 2D glyph vs isometric stack; Z-channel ground -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t">
+  <title id="t">LogoModernism Effect C</title>
+  <path fill="currentColor" d="M36 36 H212 V100 H116 V140 H36 Z M220 220 H44 V156 H140 V116 H220 Z"/>
+</svg>

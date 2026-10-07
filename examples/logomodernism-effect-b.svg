@@ -1,0 +1,5 @@
+<!-- concept B: crop/mask — rounded field, overlapping L-voids; evenodd refill = stepped fold channel -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t">
+  <title id="t">LogoModernism Effect B</title>
+  <path fill="currentColor" fill-rule="evenodd" d="M64 28 H192 A36 36 0 0 1 228 64 V192 A36 36 0 0 1 192 228 H64 A36 36 0 0 1 28 192 V64 A36 36 0 0 1 64 28 Z M56 56 H184 V112 H112 V184 H56 Z M200 200 H72 V144 H144 V72 H200 Z"/>
+</svg>

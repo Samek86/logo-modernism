@@ -1,0 +1,6 @@
+<!-- Favicon tile — master geometry (8-unit grid → whole pixels at 32px) on black field -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t">
+  <title id="t">LogoModernism favicon</title>
+  <path fill="#000" d="M56 0 H200 A56 56 0 0 1 256 56 V200 A56 56 0 0 1 200 256 H56 A56 56 0 0 1 0 200 V56 A56 56 0 0 1 56 0 Z"/>
+  <path fill="#fff" d="M224 32 L224 88 L120 88 L120 152 L32 152 L32 32 Z M32 168 L136 168 L136 104 L224 104 L224 224 L32 224 Z"/>
+</svg>
